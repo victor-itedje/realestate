@@ -3,7 +3,7 @@ import "./contact.css"
 
 const Contact = () => {
     return(
-        <section className="c-wrapper" >
+        <section id="contact" className="c-wrapper" >
             <div className="paddings innerWidth flexcenter c-container">
                 <div className="flexColStart c-left">
                 <span className="orangeText" >Our Contacts</span><span className="primaryText" >Easy to Contact Us</span><span className="secondaryText" >We always ready to help by providijng the best services for you. We beleive a good blace to live can make your life better</span>
